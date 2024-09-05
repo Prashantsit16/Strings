@@ -23,14 +23,24 @@ A string which is equivalent on both the sides. Example: Madam,civic etc.
 
 Output:
 String Input
+![Screenshot 2024-09-05 150430](https://github.com/user-attachments/assets/33458a71-0167-4dd1-b4b3-d37e0045a02c)
+
 
 String concatenation
+![Screenshot 2024-09-05 150332](https://github.com/user-attachments/assets/e348bdb4-7616-4b8e-bf4c-7c6f1e9ee4ba)
+
 
 String reverse
+![Screenshot 2024-09-05 150635](https://github.com/user-attachments/assets/0e55b7a4-2151-4505-a178-4d14f7cb8744)
+
 
 String palindrome
+![Screenshot 2024-09-05 150548](https://github.com/user-attachments/assets/1c6f4ee4-c47e-47af-a9ae-ad74f64be78c)
+
 
 Occurence of letter in string
+![Screenshot 2024-09-05 150635](https://github.com/user-attachments/assets/d6682c4d-2c8a-40e7-a81b-4a0013b763db)
+
 
 Conclusion :
 We learnt about strings and it's implementation in C++ programming.
